@@ -1,0 +1,18 @@
+table, tr, th, td, caption{
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    background-color: aquamarine;
+}
+body{
+    background-color: grey;
+}
+.su{
+    background-color: brown;
+    
+}
+.su-a{
+    background-color: white;
+    
+}
